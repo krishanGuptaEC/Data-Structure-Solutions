@@ -1,8 +1,8 @@
-Given an array A containing N integers.
+// Given an array A containing N integers.
 
-You need to find the maximum sum of triplet ( Ai + Aj + Ak ) such that 0 <= i < j < k < N and Ai < Aj < Ak.
+// You need to find the maximum sum of triplet ( Ai + Aj + Ak ) such that 0 <= i < j < k < N and Ai < Aj < Ak.
 
-If no such triplet exists return 0.
+// If no such triplet exists return 0.
 
 
 

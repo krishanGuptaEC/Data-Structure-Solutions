@@ -1,3 +1,5 @@
+// Asked in one of interview please try to solve without using any space 
+
 public class Solution {
     public int[] solve(int[] A) {
         int n = A.length;  // Get the length of the input array A

@@ -1,6 +1,6 @@
 // Question Link :- https://www.interviewbit.com/problems/merge-intervals/
 
-// Solution: Just add new instance in intervals and then use same as merge intervals.
+// Solution: Just add new instance in intervals and then use same as Merge Overlapping Intervals.
 
 // Step 1 : Add a new intervel to intervels and sort the list.
 // Step 2 : Check if the given intervals are overlapping.
